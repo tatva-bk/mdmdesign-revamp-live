@@ -1,0 +1,4 @@
+[31-Oct-2022 16:53:15 Australia/Melbourne] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/mdmdesigncom/public_html/wp-content/themes/mdmdesign/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/mdmdesigncom/public_html/wp-content/themes/mdmdesign/index.php on line 15

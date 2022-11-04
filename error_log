@@ -1,0 +1,4 @@
+[30-Sep-2022 13:14:39 Australia/Melbourne] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home/mdmdesigncom/public_html/wp-settings.php on line 33
+[30-Sep-2022 13:14:39 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/mdmdesigncom/public_html/wp-settings.php on line 33
+[30-Sep-2022 13:14:46 Australia/Melbourne] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home/mdmdesigncom/public_html/wp-settings.php on line 33
+[30-Sep-2022 13:14:46 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/mdmdesigncom/public_html/wp-settings.php on line 33
